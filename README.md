@@ -11,7 +11,8 @@ This project let's you scan rfid tags using rfid reader and arduino.
 
 ```
 1) arduino hardware and arduino ide
-2) 
+2) MFRC522
+
 ```
 
 ### Installing
